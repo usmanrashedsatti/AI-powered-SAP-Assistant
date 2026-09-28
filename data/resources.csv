@@ -1,0 +1,12 @@
+resource_id,resource_type,resource_name,location,status,capacity
+V001,Vehicle,Toyota Hilux,Jubail,Available,4
+V002,Vehicle,Ford Ranger,Jubail,Available,4
+V003,Vehicle,Toyota Land Cruiser,Dammam,Available,7
+V004,Vehicle,Nissan Patrol,Jubail,Available,7
+V005,Vehicle,Toyota Hilux,Dammam,Maintenance,4
+V006,Vehicle,Hyundai Staria,Jubail,Available,8
+E001,Equipment,CAT Generator,Jubail,Available,1
+E002,Equipment,Air Compressor,Dammam,Available,1
+E003,Equipment,Welding Machine,Jubail,Available,1
+E004,Equipment,Industrial Pump,Ras Al Khair,Available,1
+E005,Equipment,Forklift,Jubail,Maintenance,1

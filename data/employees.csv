@@ -1,0 +1,11 @@
+employee_id,name,department,project_id,role
+E001,Ahmed Ali,Maintenance,P001,Engineer
+E002,Muhammad Khan,Engineering,P002,Engineer
+E003,Sara Ahmed,Operations,P001,Supervisor
+E004,Omar Hassan,Maintenance,P003,Technician
+E005,Fatima Noor,Procurement,P002,Manager
+E006,Ali Raza,Engineering,P003,Engineer
+E007,Hassan Malik,Operations,P001,Technician
+E008,Ayesha Khan,Maintenance,P003,Engineer
+E009,Bilal Ahmed,Engineering,P002,Technician
+E010,Usman Tariq,Operations,P001,Engineer
